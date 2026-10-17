@@ -1,0 +1,1 @@
+// interface IdGenerator { generate(): string }
